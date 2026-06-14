@@ -1,0 +1,23 @@
+# Python bytecode cache
+__pycache__/
+*.pyc
+*.pyo
+
+# JetBrains IDE
+.idea/
+
+# Office temporary files
+~$*.xlsx
+~$*.docx
+~$*.pptx
+
+# Virtual environment
+venv/
+env/
+.venv/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+历史版本/
